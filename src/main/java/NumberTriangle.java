@@ -169,6 +169,6 @@ public class NumberTriangle {
         System.out.println(mt.retrieve("lr"));
         System.out.println(mt.retrieve("rl"));
         System.out.println(mt.retrieve("rr"));
-        //plus one commit
+        //plzzzz
     }
 }
